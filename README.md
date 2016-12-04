@@ -2,7 +2,7 @@
 
 A simple example and cheat sheet for using Sphinx to document small Python modules.
 
-reStructured Text cheat sheet: [davidstutz.github.io/sphinx-example/docs/build/html/index.html](davidstutz.github.io/sphinx-example/docs/build/html/index.html)
+reStructured Text cheat sheet: [https://davidstutz.github.io/sphinx-example/#index](https://davidstutz.github.io/sphinx-example/#index
 
 Python documentation cheat sheet: [`module/__init__.py`](module/__init__.py)
 
